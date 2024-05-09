@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZumRails-Interview.Api", "ZumRails-Interview.Api.csproj", "{C9DAC89A-2539-4D9F-8DB1-05EC3B507389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZumRails-Interview.Tests", "..\ZumRail-Interview.Tests\ZumRails-Interview.Tests.csproj", "{167D6987-2D8C-4FD3-83B9-39058B6543C9}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ZumRails-Interview.Frontend", "..\ZumRails-Interview.Frontend\ZumRails-Interview.Frontend.esproj", "{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DAC89A-2539-4D9F-8DB1-05EC3B507389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DAC89A-2539-4D9F-8DB1-05EC3B507389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DAC89A-2539-4D9F-8DB1-05EC3B507389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DAC89A-2539-4D9F-8DB1-05EC3B507389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167D6987-2D8C-4FD3-83B9-39058B6543C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167D6987-2D8C-4FD3-83B9-39058B6543C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167D6987-2D8C-4FD3-83B9-39058B6543C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167D6987-2D8C-4FD3-83B9-39058B6543C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9A1244-1CBC-46E0-9CB3-B28BACB674E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9F7440-10AF-41A9-8313-1D45298B494F}
+	EndGlobalSection
+EndGlobal
